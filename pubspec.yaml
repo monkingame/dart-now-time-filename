@@ -1,13 +1,5 @@
 name: dart_now_time_filename
-description: Generate now time string for filename.
-  Sometimes it needs a time string for filename. The time stamp is useful for logging and searching.
-  For example, if filename generated using guid or md5, it smells badly.
-  The package provides a lookabe format for logging and debugging.
-  The filename format is 
-  prefix + year + month + day + seperator + hour + minute + second + seperator +
-  millisecond + seperator + microsecond + extension.
-  The timing is formatted by 2chars or 3chars(millisecond and microsecond).
-
+description: Generate now time string for filename.The time stamp is useful for logging and searching.
 version: 0.1.0
 author: sunshouhua <946966995@qq.com>
 homepage: https://github.com/monkingame/dart-now-time-filename.git
