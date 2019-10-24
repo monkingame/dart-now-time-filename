@@ -4,7 +4,7 @@ generate now time string for filename.
 
 ## Getting Started
 Sometimes it needs a time string for filename.
-The time stamp is useful for log and search.
+The time stamp is useful for logging and searching.
 
 ## Usage
 final filename = UtilNowFilename.getNowFilename(prefix: 'header-', ext: '.mp3');
