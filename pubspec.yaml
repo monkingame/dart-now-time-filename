@@ -1,6 +1,6 @@
 name: dart_now_time_filename
 description: generate now time string for filename.
-version: 0.0.2
+version: 0.0.3
 author: sunshouhua <946966995@qq.com>
 homepage: https://github.com/monkingame/dart-now-time-filename.git
 

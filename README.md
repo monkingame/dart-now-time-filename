@@ -7,7 +7,7 @@ Sometimes it needs a time string for filename.
 The time stamp is useful for logging and searching.
 
 ## Usage
-final filename = UtilNowFilename.getNowFilename(prefix: 'header-', ext: '.mp3');
+final filename = NowFilename.genNowFilename(prefix: 'header-', ext: '.mp3');
 
 And you'll get:
 
