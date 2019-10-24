@@ -1,8 +1,8 @@
 library dart_now_time_filename;
 
-/// A Calculator.
-class UtilNowFilename {
-  static String getNowFilename({String prefix: '', String ext: ''}) {
+/// generate now time string for filename.
+class NowFilename {
+  static String genNowFilename({String prefix: '', String ext: ''}) {
     final now = DateTime.now();
     final y = now.year.toString().padLeft(4, '0');
     final m = now.month.toString().padLeft(2, '0');
