@@ -13,3 +13,7 @@
 ## [0.0.4] - 2019-10-24
 
 * seperator added.
+
+## [0.1.0] - 2019-10-24
+
+* documents updated.
