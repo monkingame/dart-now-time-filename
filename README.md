@@ -1,14 +1,14 @@
 # dart_now_time_filename
 
-A new Flutter package project.
+generate now time string for filename.
 
 ## Getting Started
+Sometimes it needs a time string for filename.
+The time stamp is useful for log and search.
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+## Usage
+final filename = UtilNowFilename.getNowFilename(prefix: 'header-', ext: '.mp3');
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+And you'll get:
+
+header-20191010-131010-516-687.mp3
