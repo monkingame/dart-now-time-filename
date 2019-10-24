@@ -17,3 +17,7 @@
 ## [0.1.0] - 2019-10-24
 
 * documents updated.
+
+## [0.1.1] - 2019-10-24
+
+* description updated.
