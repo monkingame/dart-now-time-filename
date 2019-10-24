@@ -9,3 +9,7 @@
 ## [0.0.3] - 2019-10-24
 
 * documents fixed.
+
+## [0.0.4] - 2019-10-24
+
+* seperator added.
