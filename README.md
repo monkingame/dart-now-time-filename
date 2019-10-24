@@ -14,4 +14,4 @@ And you'll get:
 header-20191010-131010-516-687.mp3
 
 ## homepage(github)
-[dart_now_time_filename](https://github.com/monkingame/dart-now-time-filename.git),
+[dart_now_time_filename](https://github.com/monkingame/dart-now-time-filename.git)
